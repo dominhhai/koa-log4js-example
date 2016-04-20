@@ -11,7 +11,7 @@ $ npm install
 $ npm start
 ```
 
-Then go to: `[localhost:3000](http://localhost:3000/)`
+Then go to [localhost:3000](http://localhost:3000/) to see your result.
 
 ## Config file
 `log4js.json`
